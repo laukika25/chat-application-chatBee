@@ -1,0 +1,2 @@
+# Create a .gitattributes file at the root of your repository
+echo "* text=auto" > .gitattributes
